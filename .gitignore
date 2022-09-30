@@ -1,6 +1,6 @@
 .idea/
 sql/target
-Form/
-Model/
-view/
+Form/*
+Model/*
+view/*
 vendor/
