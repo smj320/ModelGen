@@ -1,0 +1,7 @@
+{
+    "require": {
+        "laminas/laminas-db": "^2.15",
+        "laminas/laminas-form": "^3.4",
+        "laminas/laminas-inputfilter": "^2.21"
+    }
+}
