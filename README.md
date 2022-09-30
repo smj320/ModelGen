@@ -1,4 +1,4 @@
-#　SQLのテーブル定義からLaminasのModelを出力する
+# SQLのテーブル定義からLaminasのModelを出力する
 
 ## SQLテーブルの作り方
 * Excel上で、列名をA列に縦変換する。
