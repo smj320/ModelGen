@@ -1,6 +1,10 @@
 .idea/
 sql/target
+!sql/.gitkeep
 Form/*
+!Form/.gitkeep
 Model/*
+!Model/.gitkeep
 view/*
+!view/.gitkeep
 vendor/
